@@ -1,4 +1,4 @@
-namespace COMP229_F2016_MidTerm_StudentID.Models
+namespace COMP229_F2016_MidTerm_300876288.Models
 {
     using System;
     using System.Data.Entity;
