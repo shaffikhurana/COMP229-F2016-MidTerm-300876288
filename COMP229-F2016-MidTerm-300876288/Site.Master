@@ -1,6 +1,10 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="COMP229_F2016_MidTerm_StudentID.Site" %>
 
 <!DOCTYPE html>
+<!---Shaffi Khurana--->
+<!----300876288----->
+<!---Midterm-------->
+  
 <html lang="en">
 <head runat="server">
     <meta charset="utf-8">
